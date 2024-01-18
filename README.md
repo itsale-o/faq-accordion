@@ -53,8 +53,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on Frontend Mentor](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-solution-bEfvrvdI41)
+- [Live Site URL](https://itsale-o.github.io/faq-accordion/)
 
 ## My process
 
